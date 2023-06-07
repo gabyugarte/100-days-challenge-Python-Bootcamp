@@ -15,7 +15,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 </h1>
 </p>
 
-I'm completingr in "100 Days of Code - The Complete Python Pro Bootcamp for 2023" course from Udemy.
+I'm completing in "100 Days of Code - The Complete Python Pro Bootcamp for 2023" course from Udemy.
 Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better
 guidance than I was getting while "self-learning".
 While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the
